@@ -2,7 +2,7 @@
 title: About
 date: 2019-05-12T12:14:34.000+06:00
 description: Is there any meta description
-author_image: images/about/author.jpg
+author_image: images/about/author.jpgk
 author_signature: images/about/signature.png
 
 ---
